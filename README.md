@@ -10,7 +10,7 @@
 
 ![](https://visitors-badge.glitch.me/badge?page_id=Dankdel.Dankden)
 
-<br/
+
 
 Hey, I'm Pranav Ajay, a Web Developer 🚀, Back End Developer & Discord Bot Developer from India. ~~And a Weeb.~~
 
